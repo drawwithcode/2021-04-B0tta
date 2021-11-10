@@ -9,8 +9,8 @@ let eminem;
 let slim;
 
 function preload() {
-  eminem = loadImage("./assets/eminem.png");
-  slim = loadImage("./assets/slimshady.png");
+  eminem = loadImage("./eminem.png");
+  slim = loadImage("./slimshady.png");
 }
 
 function setup() {
